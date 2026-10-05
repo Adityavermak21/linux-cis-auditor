@@ -1,0 +1,18 @@
+# Vim/Neovim swap files
+*.swp
+*.swo
+*.swn
+.*.swp
+.*.swo
+
+# Audit reports generated locally
+reports/*.txt
+reports/*.html
+
+# Temporary files
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
